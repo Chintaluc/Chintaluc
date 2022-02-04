@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include<conio.c>
+void main
+{
+    int i;
+    char x[100];
+    puts("enter a string");
+    gets(X);
+    for( i =0;i<strlen(x);i++)
+    {
+        if(isupper (x[i]))
+        printf("%c",tolower(x[i])));
+        else if (islower[i])));
+        printf("%c",tolower(x[i]));
+        else
+printf("%c",x[i]);
+}
+return 0;
+}
